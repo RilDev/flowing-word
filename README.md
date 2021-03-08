@@ -10,3 +10,4 @@ The KJV bible without verse numbers.
 - [ ] create a custom `pandoc` PDF styling
 - [ ] Publish the summary of all chapters
 - [ ] Publish the flowing word bible
+- [ ] create a `docusaurus` website
